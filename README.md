@@ -7,7 +7,9 @@
 3. Percentage: Divide the total marks by the total number of subjects to get the average percentage.
 4. Grade Calculation: Assign grades based on the average percentage achieved.
 5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user
-6. 
+6. https://github.com/E-Tejaswini/Studentgrade/assets/147268553/22b94b33-43b6-41e3-811a-5dd002cfd512
+
+7. 
 
 
 
